@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1687986058 source:c:\dev\c++\first_project\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1687988050 source:c:\dev\c++\kalkulator\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
